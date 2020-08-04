@@ -1,6 +1,5 @@
 ### Hi, I'm Joao Costa 
 
-#### I have two dogs and a beautiful wife. :blush:
 - 👷 I’m currently working on a [Soccer Dashboard](https://jcosta16.github.io/soccer/)!
 - 🔧 I’m currently learning almost everything 😂, but mostly Apache Airflow right now
 - 💼 I’m looking for a job as Data Analyst
