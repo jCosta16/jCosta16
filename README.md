@@ -10,7 +10,6 @@
 
 [<img align="left" alt="Joao Costa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joao-costa-919535193/)
 [<img align="left" alt="Joao Costa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/joaojim/)
-[<img align="left" alt="Joao Miniatures | Instagram" width="22px" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" />](https://www.instagram.com/joaominis/)
 <br />
 
 ### Languages and Tools:
