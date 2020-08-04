@@ -32,7 +32,7 @@
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JCosta16&show_icons=true&theme=vue&hide_border=true" />
+<img align="left" alt="JCosta16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JCosta16&show_icons=true&theme=vue&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCosta16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="JCosta16's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCosta16&layout=compact" />
 
