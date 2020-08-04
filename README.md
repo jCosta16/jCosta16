@@ -2,7 +2,7 @@
 
 #### I have two dogs and a beautiful wife. :blush:
 - 👷 I’m currently working on a [Soccer Dashboard](https://jcosta16.github.io/soccer/)!
-- 🔧 I’m currently learning everything, but mostly Apache Airflow right now
+- 🔧 I’m currently learning almost everything 😂, but mostly Apache Airflow right now
 - 💼 I’m looking for a job as Data Analyst
 - ⚡ Hobbies: I love soccer, paint miniatures and play bass guitar (still learning though).
 
@@ -22,6 +22,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
