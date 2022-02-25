@@ -2,7 +2,6 @@
 
 - 👷 I’m currently working on a [Soccer Dashboard](https://jcosta16.github.io/soccer/)!
 - 🔧 I’m currently learning NodeJs and improving my Machine learning Skills
-- 💼 I’m looking for a job as Data Analyst
 - ⚡ Hobbies: I love soccer, painting miniatures and playing bass guitar (still learning though).
 
 ### Connect with me:
